@@ -1,1 +1,1 @@
-# Power_BI_projects
+# Power BI projects solely done in Power BI.
